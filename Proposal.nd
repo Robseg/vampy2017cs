@@ -1,0 +1,33 @@
+# Enterprise Automation Proposal
+## Motivation 
+The more efficent a buisness is the more profit it makes. Automation of capital and maintenence expendatures as well as supply and demand calculations would greatly increase the efficiency of a buisness and thus the amount of income.
+##Deliverables
+Using input from users and consumers we will calculate the popularity of a product and the marginal benefit of the manufacturing and ordering of a product. We will also keep up with short and long term maintenence of assests such as vehicles or other machines. We will do this by taking into account gas mileage, distance travelled, age of vehicle, and profit gained from specific or average shipments.
+
+## Tools Used
+Drivers
+Truck
+Truck GPS and Monitoring
+Product
+Product Distribution System
+Survey
+Warehouse
+Product Data Base
+Advertisment
+
+## Challenges Expected
+Capital Acquisition
+forgetfulness
+Unexpected Variables
+Collecting Survey Data
+Truck Performance
+
+##Timeline
+Proposal to companies(Capital Acquisition)
+Truck data acquisition
+Truck maintenance calculations
+Survey creation
+Survey app release
+Product popularity data collection
+
+
